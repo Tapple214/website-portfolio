@@ -246,7 +246,6 @@ a {
 .info-container img {
   width: 75%;
   margin-bottom: 2.5rem;
-  filter: saturate(100);
 }
 
 .info-container h2,
